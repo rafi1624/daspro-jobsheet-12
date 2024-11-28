@@ -5,7 +5,7 @@ public class PenjumlahanRekursif23 {
         if (n == 1) {
             return "1";
         } else {
-            return penjabaranPenjumlahan(n - 1) + "+" + n;
+            return penjabaranPenjumlahan(n - 1) + " + " + n;
         }
     }
 
