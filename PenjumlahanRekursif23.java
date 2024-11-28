@@ -23,7 +23,7 @@ public class PenjumlahanRekursif23 {
         int n = sc.nextInt();
         String penjabaran = penjabaranPenjumlahan(n);
         int hasil = hitungPenjumlahan(n);
-        System.out.println("Penjabaran: " + penjabaran);
-        System.out.println("Hasil: " + hasil);
+        System.out.println("Penjabaran : " + penjabaran);
+        System.out.println("Hasil : " + hasil);
     }
 }
